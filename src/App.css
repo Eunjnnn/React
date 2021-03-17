@@ -33,9 +33,9 @@ button {
   border-radius: 50%;
 }
 
-.add-form {
-  width: 100%;
-  margin: 1rem 0.5rem;
+.habits {
+  padding: 0.5em;
+  padding-top: 2em;
 }
 
 .add-input {

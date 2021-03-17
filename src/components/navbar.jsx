@@ -1,4 +1,3 @@
-import '../app.css';
 import React, { PureComponent } from 'react';
 
 class Navbar extends PureComponent {
